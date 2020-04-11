@@ -47,7 +47,7 @@ void main() {
     writeln("bool max: ", bool.max);
 
     bool happy = true;
-    writefln("Bool: %s", happy) // formatted output
+    writefln("Bool: %s", happy); // formatted output
 
     writeln("char min: ", char.min);
     writeln("char max: ", char.max);
